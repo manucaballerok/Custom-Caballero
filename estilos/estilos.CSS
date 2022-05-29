@@ -70,7 +70,7 @@
          padding: 20px;
      }
      h2{
-         color: rgb(148, 148, 148);
+         color: rgb(236, 221, 221);
      }
     
 
@@ -131,7 +131,7 @@ footer{
     }
 
     .container .card img{
-        width: 330px;
+        width: 310px;
         height: 220;
 
     }
@@ -142,14 +142,14 @@ footer{
     }
 
     .container .card p{
-        padding: 0 1rem;
-        font-size: 16px;
-        font-weight: 300;
+        padding: 0 2rem;
+        font-size: 18px;
+        font-weight: 200;
 
     }
     
     .container .card a{
-        font-weight: 500;
+        font-weight: 400;
         text-decoration: none;
         color: #3498db;
     }
