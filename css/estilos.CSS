@@ -6,14 +6,16 @@ box-sizing: border-box;}
         font-family: 'Koulen', cursive;
         margin: 0%;
         padding: 0%;
-        background-image: url(../imagenes/henry-dick-96ygTTckk3E-unsplash.jpg);
+        background-image: url(../img/fondo\ ruta.jpg);
         background-size: cover;
+        position: relative;
+        
     }
     
 
     header{
         padding: 35px;
-        background-image: url(../imagenes/ropa\ moto.jpg);
+        background-image: url(../img/ropa\ moto.jpg);
         background-repeat: no-repeat;
         background-position:center;
         background-size: cover;
@@ -98,11 +100,11 @@ footer{
         margin: 0%;
         padding: 0%;
         width: 100%;
-        height: 100%;
         color: rgb(221, 221, 221);
-        line-height: 1.6;
-        background-image: url(../imagenes/henry-dick-96ygTTckk3E-unsplash.jpg);
+        line-height: 1.;
+        background-image: url(../img/fondo\ ruta.jpg);
         background-size: cover;
+        background-position: center;
     }
 
     .container{
@@ -173,6 +175,7 @@ footer{
          position: relative;
          left: 180px;;
          text-align: center;
+         max-width: none;
          
     }
     .caja1  h3{
@@ -187,6 +190,7 @@ footer{
         position: relative;
         left: 180px;
         text-align: center;
+        
     } 
     .caja2 h3{
         background-color: black;
@@ -207,7 +211,7 @@ footer{
     .caja2 {
         background-color: rgb(27, 26, 26);
         width: 800px;
-        height: 400px;
+        height: 500px;
         text-align: left;
     }
     
